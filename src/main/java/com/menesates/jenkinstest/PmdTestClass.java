@@ -4,6 +4,9 @@ public class PmdTestClass {
 
     public void test(){
         System.out.println("test");
+        for (;true;){
+
+        }
     }
 
 }
