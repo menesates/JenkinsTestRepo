@@ -12,6 +12,6 @@ public class JenkinsTest {
 
     @Test
     public void testFail(){
-        Assert.assertEquals(3,3);
+        Assert.assertEquals(2,3);
     }
 }
